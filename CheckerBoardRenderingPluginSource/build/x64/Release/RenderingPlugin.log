@@ -1,0 +1,24 @@
+﻿  RenderAPI_D3D11.cpp
+     正在建立程式庫 C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\CBR.lib 和物件 C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\CBR.exp
+  正在產生程式碼
+  1 of 42 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  RenderingPlugin.vcxproj -> C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\CBR.dll
+  Target Plugin Path is C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86_64
+  系統找不到指定的路徑。
+  複製了         0 個檔案。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: "SETLOCAL
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: if "x64" == "x86" (
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073:   set TARGET_PLUGIN_PATH=C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: ) else (
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073:   set TARGET_PLUGIN_PATH=C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86_64
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: )
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: echo Target Plugin Path is %TARGET_PLUGIN_PATH%
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: copy /Y "C:\Projects\CheckerboardTest\CheckerBoardRenderingPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\CBR.dll" "%TARGET_PLUGIN_PATH%\CBR.dll"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: ENDLOCAL
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" 命令以返回碼 1 結束。
